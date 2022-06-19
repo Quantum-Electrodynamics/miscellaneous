@@ -1,2 +1,2 @@
-# miscellaneous
-Some miscellaneous files.
+# 杂项
+一些小文件、小脚本
